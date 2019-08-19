@@ -81,7 +81,7 @@ In combination with [html-webpack-plugin](https://github.com/jantimon/html-webpa
 <link rel="apple-touch-icon" sizes="167x167" href="/assets/apple-touch-icon-167x167.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon-180x180.png">
 <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/apple-touch-icon-1024x1024.png">
-<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/assets/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/assets/apple-touch-startup-image-320x480.png">
 <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/assets/apple-touch-startup-image-640x920.png">
 <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/assets/apple-touch-startup-image-640x1096.png">
 <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/assets/apple-touch-startup-image-750x1294.png">
